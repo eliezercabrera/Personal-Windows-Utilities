@@ -1,0 +1,5 @@
+Initial setup
+
+Get winget from Microsoft Store. The name is 'App Installer' 
+
+Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
