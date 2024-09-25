@@ -1,3 +1,20 @@
-winget install --id Git.Git -e --source winget
-winget install -e --id Notepad++.Notepad++
-winget install Microsoft.PowerToys -s winget
+winget install --exact --id Git.Git
+winget install --exact --id Notepad++.Notepad++
+winget install --exact --id Microsoft.PowerToys
+winget install --exact --id Mozilla.Firefox
+winget install --exact --id Microsoft.VisualStudioCode
+winget install --exact --id Microsoft.VisualStudio.2022.Community
+winget install --exact --id Dropbox.Dropbox
+winget install --exact --id Apple.iCloud
+winget install --exact --id AppWork.JDownloader
+winget install --exact --id Valve.Steam
+winget install --exact --id Bitwarden.Bitwarden
+winget install --exact --id Brave.Brave
+winget install --exact --id Google.Chrome
+winget install --exact --id RandyRants.SharpKeys
+winget install --exact --id GIMP.GIMP
+winget install --exact --id Apple.iTunes
+winget install --exact --id Chocolatey.Chocolatey
+winget install --id Microsoft.VisualStudio.2022.Community
+
+choco install itunes
