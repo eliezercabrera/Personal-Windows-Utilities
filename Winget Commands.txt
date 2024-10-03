@@ -15,7 +15,6 @@ winget install --exact --id RandyRants.SharpKeys
 winget install --exact --id GIMP.GIMP
 winget install --exact --id Apple.iTunes
 winget install --exact --id Chocolatey.Chocolatey
-winget install --exact --id Microsoft.VisualStudio.2022.Community
 winget install --exact --id Olivia.VIA
 # winget install --exact --id NirSoft.NirCmd
 winget install --exact --id Lexikos.AutoHotkey
