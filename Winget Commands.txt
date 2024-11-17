@@ -18,7 +18,9 @@ winget install --exact --id Chocolatey.Chocolatey
 winget install --exact --id Olivia.VIA
 # winget install --exact --id NirSoft.NirCmd
 winget install --exact --id Lexikos.AutoHotkey
-winget install --exact --id NirSoft.SoundVolumeView 
+winget install --exact --id NirSoft.SoundVolumeView
+winget install --exact --id Microsoft.VisualStudioCode
+winget install --exact --id qBittorrent.qBittorrent
 
 choco install itunes
 choco install nircmd
