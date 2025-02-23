@@ -21,6 +21,7 @@ winget install --exact --id Lexikos.AutoHotkey
 winget install --exact --id NirSoft.SoundVolumeView
 winget install --exact --id Microsoft.VisualStudioCode
 winget install --exact --id qBittorrent.qBittorrent
+winget install --exact --id PrivateInternetAccess.PrivateInternetAccess
 
 choco install itunes
 choco install nircmd
