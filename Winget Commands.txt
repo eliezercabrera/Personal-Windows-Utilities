@@ -22,6 +22,8 @@ winget install --exact --id NirSoft.SoundVolumeView
 winget install --exact --id Microsoft.VisualStudioCode
 winget install --exact --id qBittorrent.qBittorrent
 winget install --exact --id PrivateInternetAccess.PrivateInternetAccess
+#Netflix
+winget install --exact --id 9WZDNCRFJ3TJ
 
 choco install itunes
 choco install nircmd
