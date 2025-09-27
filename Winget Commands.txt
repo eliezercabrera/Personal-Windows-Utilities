@@ -28,4 +28,4 @@ winget install --exact --id 9WZDNCRFJ3TJ
 choco install itunes
 choco install nircmd
 choco install autohotkey
-choco install youtube-dl
+choco install yt-dlp
