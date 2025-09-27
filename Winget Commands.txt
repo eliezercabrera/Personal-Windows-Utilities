@@ -24,8 +24,8 @@ winget install --exact --id qBittorrent.qBittorrent
 winget install --exact --id PrivateInternetAccess.PrivateInternetAccess
 #Netflix
 winget install --exact --id 9WZDNCRFJ3TJ
-winget install --exact --id yt-dlp.yt-dlp
 
 choco install itunes
 choco install nircmd
 choco install autohotkey
+choco install youtube-dl
